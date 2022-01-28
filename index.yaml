@@ -16,6 +16,6 @@ entries:
     name: pages
     type: application
     urls:
-    - https://murray-stephen.github.io/app-1.1.0.tgz
+    - https://murray-stephen.github.io/pages-1.0.0.tgz
     version: 1.0.0
 generated: "2022-01-28T10:12:38.106870992Z"
